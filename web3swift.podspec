@@ -29,5 +29,5 @@ s.dependency 'Result', '~> 3.1'
 s.dependency 'CryptoSwift', '~> 1.0'
 s.dependency 'libsodium', '~> 1.0.12'
 s.dependency 'secp256k1_ios', '~> 0.1.3'
-s.dependency 'PromiseKit', '~> 6.3.0'
+s.dependency 'PromiseKit', '~> 6.13.1'
 end
