@@ -24,7 +24,7 @@ s.pod_target_xcconfig = { 'DEFINES_MODULE' => 'YES' }
 s.frameworks = 'CoreImage'
 s.dependency 'Alamofire', '~> 4.7'
 s.dependency 'Alamofire-Synchronous', '~> 4.0'
-s.dependency 'BigInt','~> 3.0'
+s.dependency 'BigInt','~> 4.0.0'
 s.dependency 'Result', '~> 3.1'
 s.dependency 'CryptoSwift', '~> 1.0'
 s.dependency 'libsodium', '~> 1.0.12'
